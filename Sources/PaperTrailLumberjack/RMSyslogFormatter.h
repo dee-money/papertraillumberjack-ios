@@ -8,8 +8,9 @@
 //
 //
 
+@import CocoaLumberjack;
+
 #import <Foundation/Foundation.h>
-#import <CocoaLumberjack/CocoaLumberjack.h>
 #import "RMSyslogFormats.h"
 
 /**

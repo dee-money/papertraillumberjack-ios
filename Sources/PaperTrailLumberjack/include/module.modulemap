@@ -1,0 +1,4 @@
+
+module PaperTrailLumberjack {
+    header "ModuleHeader.h"
+}
